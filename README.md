@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/github/followers/nil-official?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -22,7 +21,6 @@ I'm a passionate **Full Stack Web Developer** who loves crafting seamless digita
 - 📫 Reach me at **ping.niladri@gmail.com**
 - ⚡ Fun fact: **I debug with System.out.println and I'm proud of it!**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -60,20 +58,18 @@ I'm a passionate **Full Stack Web Developer** who loves crafting seamless digita
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nil-official&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nil-official&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nil-official&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nil-official&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nil-official&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nil-official&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
----
 
 ## 🔥 Featured Projects
 
@@ -86,7 +82,6 @@ I'm a passionate **Full Stack Web Developer** who loves crafting seamless digita
 
 </div>
 
----
 
 ## 📈 Activity Graph
 
@@ -94,7 +89,6 @@ I'm a passionate **Full Stack Web Developer** who loves crafting seamless digita
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nil-official&theme=tokyo-night&hide_border=true" />
 </div>
 
----
 
 ## 🎯 Current Goals
 
@@ -104,7 +98,6 @@ I'm a passionate **Full Stack Web Developer** who loves crafting seamless digita
 - 🎨 Improve **UI/UX** design skills
 - 📚 Share knowledge through **Technical Writing**
 
----
 
 ## 🤝 Connect with Me
 
@@ -129,7 +122,6 @@ I'm a passionate **Full Stack Web Developer** who loves crafting seamless digita
   </a>
 </div>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
